@@ -5,7 +5,7 @@
 - [NameMC](http://es.namemc.com/h4m "NameMC")
 
 **Sobre mi:**
-Vivo y estudio en Montevideo Uruguay, Actualmente tengo 17 años y curso ultimo grado de secundaria.
+Vivo y estudio en Montevideo Uruguay, actualmente tengo 17 años y curso ultimo grado de secundaria.
 
 ✅ Siguiente Meta: Poder llegar a trabajar como Junior
 
