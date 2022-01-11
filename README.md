@@ -17,7 +17,7 @@ Vivo y estudio en Montevideo Uruguay, Actualmente tengo 17 años y curso ultimo 
 #### ¿Qué lenguajes manejo?
 - 🐍 Python (En aprendisaje)
 - ☕ Java
-- ⭐ HTML
+- ⭐ HTML & CSS
 - ✔ SQL
 
 ##### **Actualmente trabajando en: H4MTool v1.0.0**
