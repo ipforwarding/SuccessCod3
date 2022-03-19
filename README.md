@@ -2,7 +2,7 @@
 **Redes:**
 - [Discord](https://discord.gg/BaStk83sPu "Discord")
 - [Github](https://github.com/SuccessCod3 "Github")
-- [NameMC](http://es.namemc.com/h4m "NameMC")
+- [NameMC](http://es.namemc.com/anytown "NameMC")
 
 **Sobre mi:**
 Vivo y estudio en Montevideo Uruguay, actualmente tengo 17 años y curso ultimo grado de secundaria.
