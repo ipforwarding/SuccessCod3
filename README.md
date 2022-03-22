@@ -20,4 +20,4 @@ Vivo y estudio en Montevideo Uruguay, actualmente tengo 17 años y curso ultimo 
 - ⭐ HTML & CSS
 - ✔ SQL
 
-##### **Actualmente trabajando en: H4MTool v1.0.0**
+##### **Actualmente trabajando en: H4MTool v1.1.0**
